@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612127270339",
+    "firebase_url": "https://flutter-denil.firebaseio.com",
+    "project_id": "flutter-denil",
+    "storage_bucket": "flutter-denil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612127270339:android:5893f20d6efc512211c976",
+        "android_client_info": {
+          "package_name": "com.denil.my_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612127270339-v6aullco7hslr9oaern6fig5dhpahe99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.denil.my_store",
+            "certificate_hash": "9651bcfdfd87a574c6bedc6fb32799b2889646dc"
+          }
+        },
+        {
+          "client_id": "612127270339-emvviikfucr2mlf1bdct8495q4v99pjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9dbUknV5HfX2Z3bLDnjCKKTjsGyf5L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612127270339-emvviikfucr2mlf1bdct8495q4v99pjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
